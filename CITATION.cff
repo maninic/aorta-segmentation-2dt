@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Manini
+    given-names: Chiara
+    orcid: "https://orcid.org/0000-0001-5357-3396"
+  - family-names: Huellebrand
+    given-names: M.
+    orcid: "https://orcid.org/0000-0003-4948-0917"
+  - family-names: Walczak
+    given-names: L.
+    orcid: "https://orcid.org/0000-0001-6124-0671"
+  - family-names: Nordmeyer
+    given-names: S.
+  - family-names: Jarmatz
+    given-names: L.
+  - family-names: Kuehne
+    given-names: T.
+  - family-names: Stern
+    given-names: H.
+  - family-names: Meierhofer
+    given-names: C.
+  - family-names: Harloff
+    given-names: A.
+  - family-names: Erley
+    given-names: J.
+  - family-names: Kelle
+    given-names: S.
+  - family-names: Bannas
+    given-names: P.
+  - family-names: Trauzeddel
+    given-names: R.F.
+  - family-names: Schulz-Menger
+    given-names: J.
+    orcid: "https://orcid.org/0000-0003-3100-1092"
+  - family-names: Hennemuth
+    given-names: A.
+    orcid: "https://orcid.org/0000-0002-0737-7375"
+title: "Impact of training data composition on the generalizability of convolutional neural network aortic cross-section segmentation in four-dimensional magnetic resonance flow imaging,
+Journal of Cardiovascular Magnetic Resonance"
+doi: 10.1016/j.jocmr.2024.101081
+date-released: 2024
+license: BSD-3-Clause
